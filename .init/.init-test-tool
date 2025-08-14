@@ -1,0 +1,4 @@
+{
+    "command": "dotnet test",
+    "working_directory": "/home/kavia/workspace/code-generation/task-management-api-6711/taskflow_api_backend"
+}
